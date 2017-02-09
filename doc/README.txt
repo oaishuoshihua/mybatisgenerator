@@ -1,0 +1,1 @@
+使用方式，如果使用idea的话直接使用右边的plugins中的mybatis-generator右键Run Maven Build生成
